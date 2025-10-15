@@ -1,6 +1,6 @@
 # Organization Robotics Sensors Research Website Application
 
-![Screenshot](Application-Screenshot1.png)
+![Screenshot](Application-Screenshot.png)
 
 ## Platforms
 - Desktop (Windows, Linux, Mac)
