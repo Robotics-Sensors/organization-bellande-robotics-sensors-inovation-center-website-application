@@ -3,7 +3,7 @@ const path = require('path');
 
 // Application configuration
 const appConfig = {
-  homePageURL: 'https://robotics-sensors.github.io',
+  homePageURL: 'https://bellande-robotics-sensors-research-innovation-center.org',
   userAgent: 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.3',
 };
 
